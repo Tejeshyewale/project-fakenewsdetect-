@@ -4,8 +4,9 @@ A simple web application built with **Streamlit** to detect whether a news artic
 
 ## 🚀 Demo
 
-🔗 [project -Fake News Detection App]App Link
-https://medium.com/@tejeshyewale917/agentic-ai-vs-traditional-llms-whats-the-real-difference-df625086feda
+🔗 project -Fake News Detection App
+App Link :--- > https://rm4sj6brlegkjhmbzdzedp.streamlit.app/
+
 
 
 ---
